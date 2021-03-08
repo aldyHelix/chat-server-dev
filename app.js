@@ -25,7 +25,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //When you use req.body -> this is using body-parser cause it is going to parse 
 // the request body to the form we want
 app.use(bodyParser.json());
-
+app.get('/', (req, res) => {
+    res.send(JSON.stringify({
+        'status': 200,
+        "error" : null,
+        "response": "Server is UP"
+    }));
+});
 
 var server = app.listen(3000,()=>{
     console.log('Server is running on port number 3000')
