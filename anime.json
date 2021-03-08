@@ -1,0 +1,44 @@
+{
+  "id": "7442",
+  "type": "anime",
+  "links": {
+    "self": "/anime/7442"
+  },
+  "attributes": {
+    "slug": "attack-on-titan",
+    "synopsis": "Centuries ago, mankind was ",
+    "description": "Centuries ago, mankind was slaughtered",
+    "coverImageTopOffset": 263,
+    "canonicalTitle": "Attack on Titan",
+    "averageRating": "84.18",
+    "userCount": 350376,
+    "favoritesCount": 6835,
+    "nextRelease": "",
+    "popularityRank": 1,
+    "ratingRank": 6,
+    "ageRating": "R",
+    "ageRatingGuide": "Violence, Profanity",
+    "subtype": "TV",
+    "status": "finished",
+    "tba": "",
+    "posterImage": {
+      "tiny": "https://media.kitsu.io/anime/poster_images/7442/tiny.jpg?1597698856",
+      "small": "https://media.kitsu.io/anime/poster_images/7442/small.jpg?1597698856",
+      "medium": "https://media.kitsu.io/anime/poster_images/7442/medium.jpg?1597698856",
+      "large": "https://media.kitsu.io/anime/poster_images/7442/large.jpg?1597698856",
+      "original": "https://media.kitsu.io/anime/poster_images/7442/original.jpg?1597698856"
+    },
+    "coverImage": {
+      "tiny": "https://media.kitsu.io/anime/cover_images/7442/tiny.jpg?1597701549",
+      "small": "https://media.kitsu.io/anime/cover_images/7442/small.jpg?1597701549",
+      "large": "https://media.kitsu.io/anime/cover_images/7442/large.jpg?1597701549",
+      "original": "https://media.kitsu.io/anime/cover_images/7442/original.png?1597701549"
+    },
+    "episodeCount": 25,
+    "episodeLength": 24,
+    "totalLength": 600,
+    "youtubeVideoId": "LHtdKWJdif4",
+    "showType": "TV",
+    "nsfw": false
+  }
+}
